@@ -1,2 +1,2 @@
 # hello-world
-I'm a baby geek right now, dream is invent brain-computer interface.
+I'm a baby geek right now, dream is making brain-computer interface come true.
